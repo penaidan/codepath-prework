@@ -23,20 +23,20 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 3 favorite apps: 
-    Clock:
+    - Clock:
         Simple 
         Always tells me what I need to know 
-    Notes:
+    - Notes:
         I can write as many reminders and lists as I want
         Organized
         Infinite
-    Google Maps: 
+    - Google Maps: 
         Very useful
         Can show me how to get anywhere I want to go
         
 App idea: 
-I would like to create an app that can truly wake up. 
-I am normally very grumpy when I ask people to wake me up from a nap and end up sleeping more than I should becuase no one can wake me up. I propose an app that continues emitting an alarm until you do something that requires a sharp mind such as a puzzle or typing some long sentence/paragraph. Another possibility is if the app can connect to some other device in the house that will also emit a noise until do the particular thing. 
+    I would like to create an app that can truly wake up. 
+    I am normally very grumpy when I ask people to wake me up from a nap and end up sleeping more than I should becuase no one can wake me up. I propose an app that continues emitting an alarm until you do something that requires a sharp mind such as a puzzle or typing some long sentence/paragraph. Another possibility is if the app can connect to some other device in the house that will also emit a noise until do the particular thing. 
 
 ## Notes
 
