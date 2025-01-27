@@ -21,6 +21,14 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
+<div>
+    <a href="https://www.loom.com/share/4dc58756354041e5a727af2348c65c4b">
+    </a>
+    <a href="https://www.loom.com/share/4dc58756354041e5a727af2348c65c4b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4dc58756354041e5a727af2348c65c4b-d9c0ab4c799276ef-full-play.gif">
+    </a>
+  </div>
+
 ## App Brainstorming (Step 4)
 3 favorite apps: 
     - Clock:
